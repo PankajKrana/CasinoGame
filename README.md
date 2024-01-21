@@ -7,7 +7,7 @@ This C++ program implements a simple casino game where players can bet on a numb
 ## How to Run
 
 1. Ensure you have a C++ compiler installed on your system.
-2. Copy the provided code into a C++ source file (e.g., `casino_game.cpp`).
+2. Copy the provided code into a C++ source file (e.g., `guessnumber.cpp`).
 3. Compile the code using your preferred C++ compiler.
 4. Run the compiled executable.
 
@@ -36,10 +36,3 @@ This C++ program implements a simple casino game where players can bet on a numb
 - The code uses the `system("cls")` function to clear the console screen, which may not work on all systems. Consider using platform-independent methods for clearing the screen if needed.
 - This is a simple casino game for educational purposes and does not involve real money.
 
-## Contributions
-
-Feel free to contribute to this project by addressing issues or adding new features. Create a pull request with your changes, and they will be reviewed.
-
-## License
-
-This code is provided under the MIT License. Feel free to use, modify, and distribute the code for educational and non-commercial purposes.
