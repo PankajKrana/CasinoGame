@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This C++ program implements a simple casino game where players can bet on a number between 1 and 10. The player has the opportunity to win or lose money based on whether their chosen number matches the randomly generated dice roll. The game continues until the player decides to stop or runs out of money.
+This C++ program implements a simple casino game where players can bet on a number between 1 and 10. The player has the opportunity to win or lose money based on whether their chosen number matches the randomly generated dice roll. The game continues until the player decides to stop or runs out of money .
 
 ## How to Run
 
@@ -31,8 +31,9 @@ This C++ program implements a simple casino game where players can bet on a numb
 2. Follow the on-screen instructions to place bets and guess numbers.
 3. Enjoy the thrill of the game and try to increase your balance.
 
+
 ## Notes
 
 - The code uses the `system("cls")` function to clear the console screen, which may not work on all systems. Consider using platform-independent methods for clearing the screen if needed.
-- This is a simple casino game for educational purposes and does not involve real money.
+- This is a simple casino game for educational purposes and does not involve real money .
 
